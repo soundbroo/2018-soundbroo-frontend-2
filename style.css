@@ -14,23 +14,21 @@ html {
     display: flex;
     flex-direction: column;
     justify-content: center;
-/*    min-width: 500px;*/
     max-width: 1440px;
 }
 
 body {
-  margin: 0;
-  padding: 0;
-  display: flex;
-  flex-direction: column;
-  flex: auto;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    flex: auto;
 }
 
 .navigation {
     background-color: #16A085;
     display: flex;
     justify-content: space-around;
-/*    align-items: center;*/
 }
 
 .navigation-link {
@@ -67,42 +65,39 @@ body {
 }
 
 .banner {
-  display: flex;
-  background-color: #333333;
-  height: 300px;
-/*  min-width: 500px;*/
+    display: flex;
+    background-color: #333333;
+    height: 300px;
     max-width: 1440px;
-  color: #FFFFFF;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+    color: #FFFFFF;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .grass-image {
-/*    min-width: 500px;*/
     max-width: 1440px;
 }
 
 .first-text {
-  font-size: 44px;
-  margin-top: 115px;
-  margin-bottom: 0;
+    font-size: 44px;
+    margin-top: 115px;
+    margin-bottom: 0;
 }
 
 .secondary-text {
-  font-size: 14px;
-  letter-spacing: 0.1em;
-  margin-bottom: 115px;
-  margin-top: 0;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    margin-bottom: 115px;
+    margin-top: 0;
 }
 
 .grass-image {
-  width: 100%;
-  height: 350;
+    width: 100%;
+    height: 350;
 }
 
 .main-content {
-/*    min-width: 500px;*/
     max-width: 1440px;
     display: flex;
     justify-content: space-around;
@@ -195,7 +190,6 @@ hr {
 
 .social {
     padding: 50px;
-/*    min-width: 500px;*/
     max-width: 1440px;
     background-color: #1E1B1A;
     display: flex;
